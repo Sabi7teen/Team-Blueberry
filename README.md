@@ -1,5 +1,3 @@
-Here’s a sample README for your GitHub repository:
-
 ---
 
 # Blue Berry - Project README
