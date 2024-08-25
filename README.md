@@ -1,5 +1,3 @@
----
-
 # Blue Berry - Project README
 
 ## Team Name
