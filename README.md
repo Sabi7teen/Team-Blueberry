@@ -28,6 +28,4 @@ This project addresses the challenges students face in managing and presenting t
 - **Homepage:** React
 - **App Development:** Flutter
 
----
-
-You can customize the format or add additional sections like installation instructions, usage details, or screenshots as needed.
+## [Figma Mockup](https://www.figma.com/design/wa8BCMF7qtKRQqkg1MCNPI/Hack'24-team-Blueberry?node-id=0-1&t=GeMOAlVk27rEhzVP-1)
